@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+  
   <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
   <br><br>
@@ -11,7 +11,7 @@
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat-square&color=blue&label=PROFILE+views" alt="4657"/>
-  
+  ###going good
     
 </div>
 
